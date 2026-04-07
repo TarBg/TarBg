@@ -1,3 +1,2 @@
 # Hello I'm TarBg
-
-![image](IMG_7740.jpg)
+<a href="url"><img src="IMG_7740.jpg" height="auto" width="200" style="border-radius:50%"></a>
